@@ -7,6 +7,8 @@ Sources
 --
 
 [Modern Spanish Grammar (book)](https://yeclaeys.wordpress.com/wp-content/uploads/2010/12/modern-spanish-grammar.pdf)
+
+
 [Honduran Spanish (Wikipedia)](https://en.wikipedia.org/wiki/Honduran_Spanish)
 
 The German letters and their (approximate) pronunciation
@@ -86,6 +88,7 @@ The pronunciation of the following consonants and consonant combinations is **di
 [☞ Pronounce The German R Right (Tips, Audio For Both R Sounds)](https://www.meetkleo.com/articles/pronounce-the-german-r-right)
 
 More information:
+
 [Guttural R (Wikipedia)](https://en.wikipedia.org/wiki/Guttural_R)
 
 Vowels and vowel combinations
@@ -120,9 +123,9 @@ German vowels are pronounced **shorter**:
     y      word-initial like     i or ü
            else ☞ see remarks below
 
-[☞ Sound of ö (e.g. in "dö").](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg)
+[☞ Sound of ö.](https://upload.wikimedia.org/wikipedia/commons/5/53/Close-mid_front_rounded_vowel.ogg)
 
-[☞ Sound of ü and y (e.g. in "dü" and "dy").](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg)
+[☞ Sound of ü and y.](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg)
 
 **Therefore, the following vowels sound similar to each other in German.**
 

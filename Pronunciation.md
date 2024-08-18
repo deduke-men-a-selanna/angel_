@@ -84,6 +84,19 @@ More information:
 
 [☞ Guttural R (Wikipedia)](https://en.wikipedia.org/wiki/Guttural_R)
 
+**Therefore, the pronunciation of the following consonants and consonant combinations is identical in German.**
+
+	f, ph, v     like     f   in   fama
+	v, w         like     v   in   vacuum (English)
+	
+	t, th, dt    like     t   in   teme
+	c, z, tz     like     t + ß
+	s, ß         like     s   in   sol
+	
+	k, ck        like     k   in   kilo
+	
+	r, rh        ☞ see remarks above
+
 Vowels and vowel combinations
 --
 
@@ -92,7 +105,7 @@ German vowels are pronounced **shorter**:
 * in front of consonant combinations
 * in unstressed syllables
 
-**Otherwise**, German vowels are pronounced like this (but **much longer** than in Spanish):
+**Otherwise**, German vowels are pronounced **(approximately)** like this (but **much longer** than in Spanish):
 
 	German                       Spanish
     a      like                  a   in   amor
@@ -121,18 +134,14 @@ German vowels are pronounced **shorter**:
 
 [☞ Sound of ü and y.](https://upload.wikimedia.org/wikipedia/commons/e/ea/Close_front_rounded_vowel.ogg)
 
-**Therefore, the following vowels sound similar to each other in German.**
+**Therefore, the pronunciation of the following vowels is identical (or approximately identical) in German.**
 
     a, aa        like     a   in   amor
     ai, ei       like     ai  in   aire
-    au           like     au  in   áureo
     ä, e, ee     like     e   in   merece
     äu, eu       like     oy  in   hoy
     i, ie, y     like     i   in   mito
     o, oo        like     o   in   ojo
-    ö            ☞ see remarks above
-    u            like     u   in   fuma
-    ui           like     wi  in   sándwich
     ü, y         ☞ see remarks above
 
 Stressed syllables

@@ -117,16 +117,20 @@ Suffixes denoting grammatical gender depending on the meaning of the word
 Grammatical gender being associated with categories
 --
 
-    grammatical |                       |                        |
-    gender      | masculine             | feminine               | neuter
-    ____________|_______________________|________________________|_________________
-    categories  | male persons          | female persons         | animal children
-                | male animals          | female animals         | fractions
-                | big/dangerous animals | small/harmless animals |
-                |                       | birds                  |
-                |                       | trees                  |
-                |                       | German rivers          |
-                |                       |                        |
+    grammatical  |                       |                        |
+    gender       | masculine             | feminine               | neuter
+    _____________|_______________________|________________________|_________________
+    corresponding|                       |                        |
+    definite     |                       |                        |
+    article      | der                   | die                    | das
+    _____________|_______________________|________________________|_________________
+    categories   | male persons          | female persons         | animal children
+                 | male animals          | female animals         | fractions
+                 | big/dangerous animals | small/harmless animals |
+                 |                       | birds                  |
+                 |                       | trees                  |
+                 |                       | German rivers          |
+                 |                       |                        |
 
 *Examples*
 --

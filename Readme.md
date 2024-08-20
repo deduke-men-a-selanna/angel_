@@ -6,6 +6,8 @@ Table of contents
     * [☞ How to learn German vocabulary effectively?](https://github.com/deduke-men-a-selanna/angel_/blob/main/Learn-German-Vocabulary.md)
     * [☞ Pronunciation](https://github.com/deduke-men-a-selanna/angel_/blob/main/Pronunciation.md)
     * [☞ Grammatical gender](https://github.com/deduke-men-a-selanna/angel_/blob/main/Grammatical-Gender.md)
+* Other
+    * [☞ German citizenship](https://github.com/deduke-men-a-selanna/angel_/blob/main/German-Citizenship.md)
 * Files
     * A Frequency Dictionary of German - English to German.apkg
     * A Frequency Dictionary of German - German to English.apkg

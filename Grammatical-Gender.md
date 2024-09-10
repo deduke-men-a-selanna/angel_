@@ -78,6 +78,36 @@ neuter (with Prefix):
     das Gerede "the gossip"                  from            reden "to talk"
 
 
+*The genitive singular form, the nominative plural form, the singular class, and the plural class of the aforementioned suffixes (the prefix Ge- therefore being omitted)*
+--
+
+    article | nominative | genitive   | nominative | singular | plural 
+            | singular   | singular   | plural     | class    | class
+    ________|____________|____________|____________|__________|________
+    der     | -ling      | -linges    | -linge     | s1       | p1
+    der     | -ant       | -anten     | -anten     | s2a      | p2
+    der     | -ist       | -isten     | -isten     | s2a      | p2
+    der     | -ismus     | -ismus     | -ismen     | s3       | p2
+    ________|____________|____________|____________|__________|________
+    die     | -in        | -in        | -innen     | s3       | p2
+    die     | -heit      | -heit      | -heiten    | s3       | p2
+    die     | -keit      | -keit      | -keiten    | s3       | p2
+    die     | -schaft    | -schaft    | -schaften  | s3       | p2
+    die     | -ung       | -ung       | -ungen     | s3       | p2
+    die     | -ion       | -ion       | -ionen     | s3       | p2
+    die     | -tät       | -tät       | -täten     | s3       | p2
+    die     | -ie        | -ie        | -ien       | s3       | p2
+    die     | -enz       | -enz       | -enzen     | s3       | p2
+    ________|____________|____________|____________|__________|________
+    das     | -tum       | -tums      | -tümer     | s1       | p1
+    das     | -nis       | -nisses    | -nisse     | s1       | p1
+    das     | -chen      | -chens     | -chen      | s1       | p2
+    das     | -lein      | -leins     | -lein      | s1       | p2
+    das     | -sel       | -sels      | -sel       | s1       | p1
+    das     | -ment      | -ments     | -mente     | s1       | p1
+    das     | -ium       | -iums      | -ien       | s1       | p2
+
+
 Suffixes denoting grammatical gender depending on the meaning of the word
 --
 
@@ -113,6 +143,23 @@ Suffixes denoting grammatical gender depending on the meaning of the word
                   |                     | Schmeichelei        |
                   |                     | "flattery")         |
                   |                     |                     |
+
+
+*The genitive singular form, the nominative plural form, the singular class, and the plural class of the aforementioned suffixes*
+--
+
+    article | nominative | genitive   | nominative | singular | plural 
+            | singular   | singular   | plural     | class    | class
+    ________|____________|____________|____________|__________|________
+    der     | -er        | -ers       | -er        | s1       | p1
+    ________|____________|____________|____________|__________|________
+    die     | -e         | -e         | -en        | s3       | p2
+    die     | -t         | -t         | -te        | s3       | p1
+    die     | -ei        | -ei        | -eien      | s3       | p2
+    ________|____________|____________|____________|__________|________
+    das     | -en        | -ens       | N/A        | s1       | N/A 
+
+
 
 Grammatical gender being associated with categories
 --

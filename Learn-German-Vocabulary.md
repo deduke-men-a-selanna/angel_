@@ -184,6 +184,10 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 For every irregular verb, there are 6 forms that need to be learned
 --
 
+CHANGES ARE BEING MADE TO THIS SECTION ...
+
+<!---
+
 **These 6 forms are:**
 
 * the **infinitive** ("to do")
@@ -194,7 +198,7 @@ For every irregular verb, there are 6 forms that need to be learned
 * the **past participle with its auxiliary** ("to have done")
 
 If you know these 6 forms of a verb, then you can derive **all** other forms from them.
-****Unfortunately, it can't be shown here how this works, as this would go to far for now.***
+***Unfortunately, it can't be shown here how this works, as this would go to far for now.***
 
 **Regularly**, these 6 forms look like this (the examples are `fragen` "to ask" and `ordnen` "to organize"):
 
@@ -233,6 +237,8 @@ These files are located in in [☞ this repository here](https://github.com/dedu
 This time, **both (!)** decks can be used in Anki simultaneously!
 
 These decks were created based on a list of German irregular verbs that can be found [☞ here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
+
+-->
 
 For every preposition, learn the cases that can be combined with it, as well as the meanings of those combinations.
 ---

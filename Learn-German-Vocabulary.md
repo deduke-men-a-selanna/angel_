@@ -181,12 +181,15 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 
 `Explanation`: Fortunately, **most irregular adjectives in German behave like** `hart`, `groß`, and `klug` which show themselves a regularity: In the **comparative**, as well as in the **superlative**, they add **two dots above the vowel** which results in a different pronunciation, but other than that they are completely regular.
 
-For every irregular verb, there are 6 forms that need to be learned
+How to learn German verbs
 --
 
-CHANGES ARE BEING MADE TO THIS SECTION ...
+Please consult  [☞ this PDF document.](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf)
 
 <!---
+
+For every irregular verb, there are 6 forms that need to be learned
+--
 
 **These 6 forms are:**
 

@@ -216,7 +216,7 @@ Finally, after having consulted the mentioned PDF document, **please investigate
 
 [☞ *müssen* "to have to, must"](https://en.wiktionary.org/wiki/müssen#Conjugation)
 
-[☞ *sollen* "shall"](https://en.wiktionary.org/wiki/sollen#Conjugation)
+[☞ *sollen* "shall"](https://en.wiktionary.org/wiki/sollen#Conjugation_2)
 
 [☞ *wollen* "to want"](https://en.wiktionary.org/wiki/wollen#Conjugation)
 

@@ -201,20 +201,35 @@ However, it must be noted that **all passive forms are missing from the Wiktiona
 **Please consult  [☞ this PDF document](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf) for detailed information on the topic.**
 
 Finally, after having consulted the mentioned PDF document, **please investigate the following highly irregular verbs on Wiktionary:**
+
 [☞ *sein* "to be"](https://en.wiktionary.org/wiki/sein#Conjugation)
+
 [☞ *haben* "to have"](https://en.wiktionary.org/wiki/haben#Conjugation)
+
 [☞ *werden* "to become; will"](https://en.wiktionary.org/wiki/werden#Conjugation)
+
 [☞ *dürfen* "to be allowed to, may"](https://en.wiktionary.org/wiki/dürfen#Conjugation)
+
 [☞ *können* "to be able to, can"](https://en.wiktionary.org/wiki/können#Conjugation)
+
 [☞ *mögen* "to like"](https://en.wiktionary.org/wiki/mögen#Conjugation)
+
 [☞ *müssen* "to have to, must"](https://en.wiktionary.org/wiki/müssen#Conjugation)
+
 [☞ *sollen* "shall"](https://en.wiktionary.org/wiki/sollen#Conjugation)
+
 [☞ *wollen* "to want"](https://en.wiktionary.org/wiki/wollen#Conjugation)
+
 [☞ *wissen* "to know"](https://en.wiktionary.org/wiki/wissen#Conjugation)
+
 [☞ *bringen* "to bring"](https://en.wiktionary.org/wiki/bringen#Conjugation)
+
 [☞ *denken* "to think"](https://en.wiktionary.org/wiki/denken#Conjugation)
+
 [☞ *gehen* "to go"](https://en.wiktionary.org/wiki/gehen#Conjugation)
+
 [☞ *stehen* "to stand"](https://en.wiktionary.org/wiki/stehen#Conjugation)
+
 [☞ *tun* "to do"](https://en.wiktionary.org/wiki/tun#Conjugation)
 
 <!---

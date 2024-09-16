@@ -184,7 +184,38 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 How to learn German verbs
 --
 
-Please consult  [☞ this PDF document.](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf)
+In German, every verb can be used in one of **three persons (first, second, or third)**, one of **two numbers (singular or plural)**, one of **six tenses (present, preterite, future, present perfect, past perfect, or future perfect)**, one of **three moods (indicative, subjunctive, or imperative)**, and one of **two voices (active or passive)**.
+
+**However, the imperative only exists in one single tense, i.e. the present.**
+
+This "grammar" here introduces another person, i.e. the **second polite**. Ordinary German grammars don't do this. Instead, they say that the forms of the third person plural are also used to refer to the second person singular in a polite manner. This "grammar" refers to this phenomenon as a distinct form called the **polite second person singular**, in order to avoid confusion.
+
+Furthermore, there are **three infinitives for each verb (present, past, future) in one of two voices (active or passive)**, as well as **two participles (present, past) that grammatically behave like nouns.**
+
+Information on the different forms of a German verb can be found on [☞ Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page). **In order to find a German verb in a dictionary, you need to look for the present infinitive form of the verb.**
+
+For example, look at the Wiktionary entries of the regular verbs [☞ *lieben* "to love"](https://en.wiktionary.org/wiki/lieben#Conjugation), [☞ *fragen* "to ask"](https://en.wiktionary.org/wiki/fragen#Conjugation), [☞ *ordnen* "to bring in order"](https://en.wiktionary.org/wiki/ordnen#Conjugation), [☞ *arbeiten* "to work"](https://en.wiktionary.org/wiki/arbeiten#Conjugation), [☞ *handeln* "to trade, to act"](https://en.wiktionary.org/wiki/handeln#Conjugation), and at the Wiktionary entries of the irregular verbs [☞ *sehen* "to see"](https://en.wiktionary.org/wiki/sehen#Conjugation), [☞ *fahren* "to drive"](https://en.wiktionary.org/wiki/fahren#Conjugation), [☞ *geben* "to give"](https://en.wiktionary.org/wiki/geben#Conjugation), [☞ *gehen* "to go"](https://en.wiktionary.org/wiki/gehen#Conjugation), [☞ *stoßen* "to push"](https://en.wiktionary.org/wiki/stoßen#Conjugation), [☞ *frieren* "to feel cold"](https://en.wiktionary.org/wiki/frieren#Conjugation). (All of these verbs also appear in the PDF document mentioned below.)
+
+However, it must be noted that **all passive forms are missing from the Wiktionary entries**!
+
+**Please consult  [☞ this PDF document](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf) for detailed information on the topic.**
+
+Finally, after having consulted the mentioned PDF document, **please investigate the following highly irregular verbs on Wiktionary:**
+[☞ *sein* "to be"](https://en.wiktionary.org/wiki/sein#Conjugation)
+[☞ *haben* "to have"](https://en.wiktionary.org/wiki/haben#Conjugation)
+[☞ *werden* "to become; will"](https://en.wiktionary.org/wiki/werden#Conjugation)
+[☞ *dürfen* "to be allowed to, may"](https://en.wiktionary.org/wiki/dürfen#Conjugation)
+[☞ *können* "to be able to, can"](https://en.wiktionary.org/wiki/können#Conjugation)
+[☞ *mögen* "to like"](https://en.wiktionary.org/wiki/mögen#Conjugation)
+[☞ *müssen* "to have to, must"](https://en.wiktionary.org/wiki/müssen#Conjugation)
+[☞ *sollen* "shall"](https://en.wiktionary.org/wiki/sollen#Conjugation)
+[☞ *wollen* "to want"](https://en.wiktionary.org/wiki/wollen#Conjugation)
+[☞ *wissen* "to know"](https://en.wiktionary.org/wiki/wissen#Conjugation)
+[☞ *bringen* "to bring"](https://en.wiktionary.org/wiki/bringen#Conjugation)
+[☞ *denken* "to think"](https://en.wiktionary.org/wiki/denken#Conjugation)
+[☞ *gehen* "to go"](https://en.wiktionary.org/wiki/gehen#Conjugation)
+[☞ *stehen* "to stand"](https://en.wiktionary.org/wiki/stehen#Conjugation)
+[☞ *tun* "to do"](https://en.wiktionary.org/wiki/tun#Conjugation)
 
 <!---
 

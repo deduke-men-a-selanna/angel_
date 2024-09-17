@@ -8,6 +8,8 @@ Disclaimer
 
 All of this information has been translated from the German sources into English using Google Translate. **There probably are translation errors.**
 
+[***Furthermore, a lot of this (including the sources) is unfortunately outdated by now! New research is necessary!***]()
+
 Your rights as a German citizen
 --
 

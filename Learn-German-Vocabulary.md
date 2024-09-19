@@ -184,7 +184,7 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 How to learn German verbs
 --
 
-In German, every verb can be used in one of **three persons (first, second, or third)**, one of **two numbers (singular or plural)**, one of **six tenses (present, preterite, future, present perfect, past perfect, or future perfect)**, one of **three moods (indicative, subjunctive, or imperative)**, and one of **two voices (active or passive)**.
+In German, every verb can be used in one of **three persons (first, second, or third)**, one of **two numbers (singular or plural)**, one of **six tenses (present, preterite, future, present perfect, preterite perfect, or future perfect)**, one of **three moods (indicative, subjunctive, or imperative)**, and one of **two voices (active or passive)**.
 
 **However, the imperative only exists in one single tense, i.e. the present.**
 

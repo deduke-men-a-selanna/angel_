@@ -206,7 +206,7 @@ This file is located in [☞ this repository here](https://github.com/deduke-men
 
 This deck was created based on a list of German irregular verbs that can be found [☞ here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
-**Additionally, a PDF document containing all information from this Anki deck can be consulted [☞ here](https://raw.githubusercontent.com/deduke-men-a-selanna/angel_/main/irregular-verbs-list.pdf).**
+**Additionally, a PDF document containing all information from this Anki deck can be consulted [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/irregular-verbs-list.pdf).**
 
 
 For every preposition, learn the cases that can be combined with it, as well as the meanings of those combinations.

@@ -200,20 +200,14 @@ However, it must be noted that **all passive forms are missing from the Wiktiona
 
 **Please consult  [☞ this PDF document](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf) for detailed information on the topic.**
 
-<!---
+**An Anki deck with German irregular verbs can be downloaded [☞ here](https://github.com/deduke-men-a-selanna/angel_/raw/refs/heads/main/German%20Irregular%20Verbs%20-%20NEW.apkg).**
 
-**Two (!)** Anki decks with German irregular verbs are available here:
+This file is located in [☞ this repository here](https://github.com/deduke-men-a-selanna/angel_).
 
-* [☞ German to English](https://github.com/deduke-men-a-selanna/angel_/raw/main/German%20Irregular%20Verbs%20-%20German%20to%20English.apkg)
-* [☞ English to German](https://github.com/deduke-men-a-selanna/angel_/raw/main/German%20Irregular%20Verbs%20-%20English%20to%20German.apkg)
+This deck was created based on a list of German irregular verbs that can be found [☞ here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
 
-These files are located in in [☞ this repository here](https://github.com/deduke-men-a-selanna/angel_).
+**Additionally, a PDF document containing all information from this Anki deck can be consulted [☞ here](https://raw.githubusercontent.com/deduke-men-a-selanna/angel_/main/irregular-verbs-list.pdf).**
 
-This time, **both (!)** decks can be used in Anki simultaneously!
-
-These decks were created based on a list of German irregular verbs that can be found [☞ here](https://jakubmarian.com/list-of-irregular-strong-german-verbs/).
-
--->
 
 For every preposition, learn the cases that can be combined with it, as well as the meanings of those combinations.
 ---

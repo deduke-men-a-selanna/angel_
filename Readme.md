@@ -7,6 +7,7 @@ Table of contents
     * [☞ How to learn German verbs](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf)
     * [☞ Pronunciation](https://github.com/deduke-men-a-selanna/angel_/blob/main/Pronunciation.md)
     * [☞ Grammatical gender](https://github.com/deduke-men-a-selanna/angel_/blob/main/Grammatical-Gender.md)
+    * [☞ Adjective Inflection](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf)
 * Other
     * [☞ German citizenship](https://github.com/deduke-men-a-selanna/angel_/blob/main/German-Citizenship.md)
 * Files

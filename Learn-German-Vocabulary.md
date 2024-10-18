@@ -181,6 +181,9 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 
 `Explanation`: Fortunately, **most irregular adjectives in German behave like** `hart`, `groß`, and `klug` which show themselves a regularity: In the **comparative**, as well as in the **superlative**, they add **two dots above the vowel** which results in a different pronunciation, but other than that they are completely regular.
 
+**Finally, a PDF document containing detailed information on the (fortunately completely regular!) adjective inflection, as well as the inflection of both articles (definite and indefinite) can be found [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf).**
+
+
 How to learn German verbs
 --
 

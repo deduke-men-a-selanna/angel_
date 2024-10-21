@@ -35,6 +35,107 @@ These decks are slightly changed variants of [☞ this deck](https://ankiweb.net
     * `ihr` "you, her; her, their, hers, theirs; your".
 * On the answer side of every card there is now additionally the corresponding [☞ Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page) entry to every German word. There you can find additional information that the cards otherwise lack.
 
+
+Try to guess the related English word when learning a German word using sound correspondences
+--
+
+German and English both evolved from the same ancestor, i. e. (West) Germanic. Their respective evolution was governed by sound laws which are different for each language and which give them their specific "modern look". However, since they evolved from the same ancestor, this results in the following sound correspondences between these languages. 
+However, this is of course not the full picture. For example, the vowels are missing, since their correspondences are too complex. Nevertheless, these correspondences should be helpful.
+
+The sound correspondences from *English to German*
+--
+
+
+	English   German            example words
+	b         b                 beard = Bart
+	p         pf, ff, f         path = Pfad, pepper = Pfeffer, deep = tief
+	f         f, v              free = frei, father = Vater
+	v         f, b              haven = Hafen, liver = Leber
+	
+	d         t                 day = Tag
+	t         tz, z, ss, s, ß   to sit = sitzen, tongue = Zunge, water = Wasser, that = das, hot = heiß
+	th        d                 three = drei
+	
+	g         g                 gall = Galle
+	gh        ch                to laugh = lachen
+	c, k      k, ck, ch         cold = kalt, naked = nackt, to make = machen
+	qu        qu                quick = queck- e.g. in Quecksilber "quick silver, i.e. mercury"
+	h         h                 hot = heiß 
+	
+	wh        w                 what = was
+	w         w, u              world = Welt, new = neu
+	y         j, g              young = jung, to say = sagen
+	
+	m         m                 mouse = Maus
+	n         n                 nose = Nase
+	nk        nk                to think = denken
+	
+	l         l                 lung = Lunge
+	r         r                 red = rot
+	
+	z         r                 frozen = gefroren
+	s         s, r              summer = Sommer, was = war
+	sp        sp                to spin = spinnen
+	st        st                to stick = stecken
+	sh        sch               shimmer = Schimmer
+	sw        schw              to swim = schwimmen
+	sm        schm              smith = Schmied
+	sn        schn              snow = Schnee
+	sl        schl              to sleep = schlafen
+	
+
+
+The *same* sound correspondences from *German to English*
+--
+
+	German    English           example words
+	b         b, v              Bart = beard, Leber = liver
+	pf        p                 Pfad = path
+	ff        p                 Pfeffer = pepper
+	f         f, v, p           frei = free, Hafen = haven, tief = deep
+	v         f                 Vater = father
+	
+	d         th                drei = three
+	t         d                 Tag = day
+	tz        t                 sitzen = to sit
+	z         t                 Zunge = tongue
+	
+	g         g, y              Galle = gall, sagen = to say
+	qu        qu                queck- e.g. in Quecksilber "quick silver, i.e. mercury" = quick
+	k         c, k              kalt = cold
+	ck        c, k              nackt = naked
+	h         h                 heiß = hot 
+	ch        c, k, gh          machen = to make, lachen = to laugh
+	
+	sch       sh                Schimmer = shimmer
+	schw      sw                schwimmen = to swim
+	schm      sm                Schmied = smith
+	schn      sn                Schnee = snow
+	schl      sl                schlafen = to sleep
+	
+	w         w, wh             Welt = world, was = what
+	u         w                 neu = new
+	j         y                 jung = young
+	
+	m         m                 Maus = mouse
+	n         n                 Nase = nose
+	nk        nk                denken = to think
+	
+	r         r, s, z           rot = red, war = was, gefroren = frozen
+	l         l                 Lunge = lung
+	
+	ß         t                 heiß = hot
+	s         s, t              Sommer = summer, das = that
+	ss        t                 Wasser = water
+	sp        sp                spinnen = to spin
+	st        st                stecken = to stick
+
+
+<!--
+Hirt, Handbuch des Urgermanischen, Teil I: Laut- und Akzentlehre, Heidelberg 1931, Carl Winter
+-->
+
+
 For every noun, learn the grammatical gender, the genitive singular and the nominative plural.
 --
 
@@ -182,6 +283,19 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 `Explanation`: Fortunately, **most irregular adjectives in German behave like** `hart`, `groß`, and `klug` which show themselves a regularity: In the **comparative**, as well as in the **superlative**, they add **two dots above the vowel** which results in a different pronunciation, but other than that they are completely regular.
 
 **Finally, a PDF document containing detailed information on the (fortunately completely regular!) adjective inflection, as well as the inflection of both articles (definite and indefinite) can be found [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf).**
+
+
+
+
+
+<!--
+Learn the individual forms of those pronouns which are **not** inflected like adjectives **separately(?)**
+--
+
+You can find an Anki deck containing a list of these forms [here].
+-->
+
+
 
 
 

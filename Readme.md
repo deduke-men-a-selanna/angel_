@@ -3,8 +3,8 @@ Table of contents
 --
 
 * German language
-    * [☞ How to learn German vocabulary effectively?](https://github.com/deduke-men-a-selanna/angel_/blob/main/Learn-German-Vocabulary.md)
     * [☞ Pronunciation](https://github.com/deduke-men-a-selanna/angel_/blob/main/Pronunciation.md)
+    * [☞ How to learn German vocabulary effectively?](https://github.com/deduke-men-a-selanna/angel_/blob/main/Learn-German-Vocabulary.md)
     * [☞ Grammatical gender](https://github.com/deduke-men-a-selanna/angel_/blob/main/Grammatical-Gender.md)
     * [☞ Adjective Inflection](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf)
     * [☞ Numbers](https://github.com/deduke-men-a-selanna/angel_/blob/main/Numbers.pdf)

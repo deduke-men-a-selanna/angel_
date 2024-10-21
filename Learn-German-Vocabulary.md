@@ -184,6 +184,63 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 **Finally, a PDF document containing detailed information on the (fortunately completely regular!) adjective inflection, as well as the inflection of both articles (definite and indefinite) can be found [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf).**
 
 
+
+Numbers
+--
+
+Cardinal numbers
+--
+
+German cardinal numbers **can freely be used as nouns or as adjectives**. If there is a distinct adjective form (i.e. if the noun form can't be used as an adjective), then it will be explicitly listed in the table below beside the noun.
+
+If German cardinal numbers are **used as a noun, they start with a capital letter**. However, all cardinal numbers are listed as adjectives in the table below.
+
+Grammatical facts about *German cardinal numbers being used as **nouns**:*
+--
+
+- Their grammatical gender is **always** **feminine**.
+- **Their** **genitive singular form is** **always** **identical to their nominative singular form.** Therefore, they belong to class `s3` which means that all of their singular forms are identical.
+- **Their** **nominative plural form** **always** **ends in `-en`.** Therefore, they belong to class `p2` which means that all of their plural forms are identical, as well.
+
+Grammatical facts about *German cardinal numbers being used as **adjectives**:*
+--
+
+- All of their forms are identical, i. e. **they are not inflected.**
+* They have **no comparative or superlative forms.**
+
+
+Ordinal numbers
+--
+
+A German ordinal number is **formed by adding the suffix** `-t` **to a German cardinal number**. Furthermore, the German ordinal numbers are **normal adjectives**. They are given in the table below in the nominative singular feminine form which ends in `-te` (this is the form that is also used in dictionaries) below each German _cardinal_ number.
+
+Fractions
+--
+  
+
+A German fraction is **formed by adding the suffix `-tel` to a German cardinal number**. German fractions **can freely be used as nouns or adjectives**. They are given in the table below under each German _ordinal_ number.
+
+If German fractions are **used as a noun, they start with a capital letter**. Note that all fractions are listed as nouns in the table below.
+
+
+Grammatical facts about *German fractions being used as **nouns**:*
+--
+
+- Their grammatical gender is **always** **neuter**.
+- **Their** **genitive singular form** **always** **ends in `-s`.** Therefore, they belong to class `s1` which means that excluding the genitive singular, all of their singular forms are identical.
+- **Their** **nominative plural form is always identical to the nominative singular form and thus, it** **always** **ends in `-el`.** Therefore, they belong to class `p1` which means that all of their plural forms are identical except the dative plural which adds a `-n`.
+
+
+Grammatical facts about *German fractions being used as **adjectives**:*
+--
+- All of their forms are identical, i. e. **they are not inflected.**
+* They have **no comparative or superlative forms.**
+
+
+**[☞ Finally, here you can find the aforementioned table containing the German cardinal numbers, ordinal numbers, and fractions, as well as some extreme examples.](https://github.com/deduke-men-a-selanna/angel_/blob/main/Numbers.pdf)**
+
+
+
 How to learn German verbs
 --
 

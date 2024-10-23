@@ -145,7 +145,7 @@ Information on the grammatical gender of a German noun, as well as it's differen
 
 Learning the grammatical gender, the genitive singular, as well as the nominative plural of a German noun is important, because this information will tell you how to use the nouns properly (grammatically) in a sentence.
 
-**The grammatical gender of a German noun can be guessed correctly with varying accuracy (more information on this can be found [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Grammatical-Gender.md)), nevertheless it often just needs to be learned.**
+**The grammatical gender of a German noun can be guessed correctly with varying accuracy ([more information on this can be found ☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Grammatical-Gender.md)), nevertheless it often just needs to be learned.**
 
 Besides, every German noun is a member of a singular class (s1, s2a, s2b, or s3) as well as a member of a plural class (p1, p2). These classes are explained below.
 
@@ -282,7 +282,7 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 
 `Explanation`: Fortunately, **most irregular adjectives in German behave like** `hart`, `groß`, and `klug` which show themselves a regularity: In the **comparative**, as well as in the **superlative**, they add **two dots above the vowel** which results in a different pronunciation, but other than that they are completely regular.
 
-**Finally, a PDF document containing detailed information on the (fortunately completely regular!) adjective inflection, as well as the inflection of both articles (definite and indefinite) can be found [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf).**
+**[Finally, a PDF document containing detailed information on the (fortunately completely regular!) adjective inflection, as well as the inflection of both articles (definite and indefinite) can be found ☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/Adjective-Inflection.pdf).**
 
 
 
@@ -372,7 +372,7 @@ For example, look at the Wiktionary entries of the regular verbs [☞ *lieben* "
 
 However, it must be noted that **all passive forms are missing from the Wiktionary entries**!
 
-**Please consult  [☞ this PDF document](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf) for detailed information on the topic.**
+**[Please consult  ☞ this PDF document for detailed information on the topic.](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf)**
 
 **An Anki deck with German irregular verbs can be downloaded [☞ here](https://github.com/deduke-men-a-selanna/angel_/raw/refs/heads/main/German%20Irregular%20Verbs%20-%20NEW.apkg).**
 
@@ -383,14 +383,32 @@ This deck was created based on a list of German irregular verbs that can be foun
 **Additionally, a PDF document containing all information from this Anki deck can be consulted [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/irregular-verbs-list.pdf).**
 
 
-For every preposition, learn the cases that can be combined with it, as well as the meanings of those combinations.
+For a preposition, learn the cases that can be combined with it, as well as the meanings of those combinations, *if the following rules can't (!) explain the usage of the preposition in question* 
 ---
 
-TO BE CONTINUED ...
+* **Rule 1: If a preposition is used with a sense of direction, then it must be combined with the accusative.** E. g. *Ich gehe **in** d**en** Raum.* "I go **in(to)** the room."
+* **Rule 2: Otherwise, a preposition must be combined with the dative.** E. g. *Ich bin **in** d**em** Raum.* "I am **in(side)** the room."
+
+Some examples of exceptions to these rules which would need to be learned:
+
+*Doch **trotz** d**es** schlecht**en** Wetter**s** gingen wir nach draußen.*
+"However, **despite** the bad weather, we went outside." 
+**(*trotz* is used with the *genitive*)**
+
+*Das ist der Weg **zu** d**en** Schulgebäude**n**.*
+"This is the way **to** the school buildings."
+**(*zu* is used with the dative, even though it *has* a sense of direction)**
+
+*Heute gehe ich nicht **ohne** mein**en** Hut nach draußen!*
+"Today, I'm not going outside **without** my hat!"
+**(*ohne* is used with the accusative, even though it *doesn't* have a sense of direction)**
+
 
 Sources
 --
 
-[☞ Source (German book).](https://portal.dnb.de/opac/showFullRecord?currentResultId=kurze+and+deutsche+and+grammatik%26any&currentPosition=34)
+[☞ Source 1 (German book).](https://d-nb.info/870789120)
+
+[☞ Source 2 (German book).](https://d-nb.info/580197220)
 
 [☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel_/blob/main/Readme.md)

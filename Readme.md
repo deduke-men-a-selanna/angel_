@@ -10,7 +10,7 @@ Table of contents
     * [☞ Numbers](https://github.com/deduke-men-a-selanna/angel_/blob/main/Numbers.pdf)
     * [☞ How to learn German verbs](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf)
 * Other
-    * [☞ German citizenship](https://github.com/deduke-men-a-selanna/angel_/blob/main/German-Citizenship.md)
+    * [☞ Relevant sections of the Act on the Residence, Economic Activity and Integration of Foreigners in the Federal Territory (important information contained in these sections will be given below each heading/link to the German (!) version)](https://github.com/deduke-men-a-selanna/angel_/blob/main/Residence-Act.md)
 * Files
     * A Frequency Dictionary of German - English to German.apkg
     * A Frequency Dictionary of German - German to English.apkg

@@ -11,7 +11,7 @@ Table of contents
     * [☞ How to learn German verbs](https://github.com/deduke-men-a-selanna/angel_/blob/main/Verb-Conjugation.pdf)
 * Other
     * [☞ Relevant sections of the Act on the Residence, Economic Activity and Integration of Foreigners in the Federal Territory](https://github.com/deduke-men-a-selanna/angel_/blob/main/Residence-Act.md)
-    * Relevant sections of the Ordinance Governing Residence
+    * [☞ Relevant sections of the Ordinance Governing Residence](https://github.com/deduke-men-a-selanna/angel_/blob/main/Ordinance-Governing-Residence.md)
 * Files
     * A Frequency Dictionary of German - English to German.apkg
     * A Frequency Dictionary of German - German to English.apkg

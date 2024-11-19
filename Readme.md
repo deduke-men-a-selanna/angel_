@@ -16,6 +16,7 @@ Table of contents
     * A Frequency Dictionary of German - English to German.apkg
     * A Frequency Dictionary of German - German to English.apkg
     * German Irregular Verbs - NEW.apkg
+    * German Pronouns.apkg
     * Einbrgerungstest_Deutschland_alle_Bundeslnder.apkg
 
  

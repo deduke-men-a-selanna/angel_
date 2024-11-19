@@ -288,12 +288,15 @@ Compare the articles on Wiktionary on these adjectives: [☞ hart](https://en.wi
 
 
 
-<!--
-Learn the individual forms of those pronouns which are **not** inflected like adjectives **separately(?)**
+
+Learn the individual forms of those pronouns which are **not** inflected like adjectives
 --
 
-You can find an Anki deck containing a list of these forms [here].
--->
+**An Anki deck containing a list of these forms can be downloaded [☞ here](https://github.com/deduke-men-a-selanna/angel_/raw/refs/heads/main/German%20Pronouns.apkg).**
+
+This file is located in [☞ this repository here](https://github.com/deduke-men-a-selanna/angel_).
+
+**Additionally, a PDF document containing all information from this Anki deck can be consulted [☞ here](https://github.com/deduke-men-a-selanna/angel_/blob/main/pronoun-forms-list.pdf).**
 
 
 

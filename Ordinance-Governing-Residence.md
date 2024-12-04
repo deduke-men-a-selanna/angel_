@@ -4,12 +4,10 @@ View this document as [☞ PDF](https://github.com/deduke-men-a-selanna/angel_/b
 [☞ Table of Contents](https://github.com/deduke-men-a-selanna/angel_/blob/main/Readme.md)
 
 
-**Relevant sections** of the Ordinance Governing Residence (important information contained in these sections will be given below each heading/link to the German (!) version)
+**Relevant sections** of the Ordinance Governing Residence (links to the German (!) version)
 --
 
 [☞ 1 Definitions](https://dejure.org/gesetze/AufenthV/1.html)
-
-... TODO ETC ...
 
 [☞ 4 German passport substitutes for foreigners](https://dejure.org/gesetze/AufenthV/4.html)
 
